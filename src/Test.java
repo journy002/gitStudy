@@ -4,5 +4,9 @@ public class Test {
         System.out.println("git test");
 
         System.out.println("로그인 브랜치에서 코드 작성");
+        System.out.println("로그인 브랜치에서 다른 코드 작성");
+
+        System.out.println("로그인 브랜치 생성 코드 github에서 Pull Request 해보기");
+
     }
 }
